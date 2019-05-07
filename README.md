@@ -7,3 +7,9 @@
 3. [Polynomial_regression](https://colab.research.google.com/drive/194PgYF7NNRwm3A_wzekGseer0DZUSqK2).
 4. [Classification](https://colab.research.google.com/drive/1c5svU97BKXJGr8q-XM8QU2tnXOFyLCfs).
 5. [MNIST Digits Recognition](https://colab.research.google.com/drive/1yYDCI5XoXC4Kg3mocsagOCQ__09qtyUV).
+
+Recommended Prerequisite Courses
+
+1. [Kaggle Python Course](https://www.kaggle.com/learn/python).
+2. [Kaggle Pandas Course](https://www.kaggle.com/learn/pandas).
+3. [Kaggle Data Visualization Course](https://www.kaggle.com/learn/data-visualization).
