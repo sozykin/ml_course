@@ -1,4 +1,4 @@
-# Examples for Machine Learning Course at Ural Federal University
+# Code Examples for Machine Learning Course at Ural Federal University
 
 ## Links to notebooks on Google Colab Platform
 
