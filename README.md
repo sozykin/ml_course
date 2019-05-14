@@ -1,6 +1,6 @@
 # Code Examples for Machine Learning Course at Ural Federal University
 
-## Links to notebooks on Google Colab Platform
+## Links to the notebooks on Google Colab Platform
 
 1. [Introduction to Machine Learning](https://colab.research.google.com/drive/1yl7pDuK2UMkMaN5zoJRg9EDXZXHkgWJz).
 2. [Training Linear Regression](https://colab.research.google.com/drive/1yeMqI8kj7GczCeGLTOXsZCQMm6hyb9jS).
@@ -12,7 +12,11 @@
 8. [An example of code for Kaggle Digit Recognizer competition](https://colab.research.google.com/drive/19c4jVM7mpv6jRMJlPdNAGmBPUGG9VvL2).
 9. [Fashion MNIST image recognition](https://colab.research.google.com/drive/1-huQPNNctIMB0BQT_U7_BbB8bLktFCZe).
 10. [Image Recognition Using Convolutional Neural Network](https://colab.research.google.com/drive/17v218wXvI12j-6SR0ffYUcQ0u4zB1Vdj).
-11. [Image Classification Using Pretrained Neural Networks](https://colab.research.google.com/drive/1cSfBscjxUad5TP1YSsWY4w3soAF8bpiT)
+11. [Image Classification Using Pretrained Neural Networks](https://colab.research.google.com/drive/1cSfBscjxUad5TP1YSsWY4w3soAF8bpiT).
+12. [Transfer Learning for Cats and Dogs Classification](https://colab.research.google.com/drive/1OOhHUjQ7uRAg08FfHwmRQug4Nkft9KL5).
+13. [Cats and Dogs Classification using the InceptionV3 Network](https://colab.research.google.com/drive/1jEmlVtUHIWthGbVKaSfniZdS5D4IKgTt).
+14. [Cats and Dogs Classification using Data Augmentation](https://colab.research.google.com/drive/1bJm3e36IX5BEGdPJECCOJTC-E5oWPDIp).
+
 
 ## Recommended Prerequisite Courses
 
