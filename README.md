@@ -11,6 +11,7 @@
 7. [How to detect and prevent overfitting in neural network](https://colab.research.google.com/drive/1g5hfGaeLBTPYbTf2GdD_86gNUvnHj-O6).
 8. [An example of code for Kaggle Digit Recognizer competition](https://colab.research.google.com/drive/19c4jVM7mpv6jRMJlPdNAGmBPUGG9VvL2).
 9. [Fashion MNIST image recognition](https://colab.research.google.com/drive/1-huQPNNctIMB0BQT_U7_BbB8bLktFCZe).
+10. [Image Recognition Using Convolutional Neural Network](https://colab.research.google.com/drive/17v218wXvI12j-6SR0ffYUcQ0u4zB1Vdj).
 
 ## Recommended Prerequisite Courses
 
