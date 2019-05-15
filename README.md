@@ -30,7 +30,7 @@
 2. [Aurélien Géron. Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291). Github repos with [code exmples from the book](https://github.com/ageron/handson-ml) and with [examples from upcoming second edition](https://github.com/ageron/handson-ml2).
 3. [François Chollet. Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python). Github repos with [code exmples from the book](https://github.com/fchollet/deep-learning-with-python-notebooks).
 
-## Useful liks
+## Useful links
 
 1. [Image Convolution Visualization](http://setosa.io/ev/image-kernels/).
 2. [A visual and intuitive understanding of deep learning (video)](https://youtu.be/Oqm9vsf_hvU?t=263).
