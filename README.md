@@ -27,4 +27,18 @@
 ## Recommended books
 
 1. [Pro Git](https://git-scm.com/book/en/v2)
-2. [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291). Github repos with [code exmples from the book](https://github.com/ageron/handson-ml) and with [examples from upcoming second edition](https://github.com/ageron/handson-ml2).
+2. [Aurélien Géron. Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291). Github repos with [code exmples from the book](https://github.com/ageron/handson-ml) and with [examples from upcoming second edition](https://github.com/ageron/handson-ml2).
+3. [François Chollet. Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python). Github repos with [code exmples from the book](https://github.com/fchollet/deep-learning-with-python-notebooks).
+
+## Useful liks
+
+1. [Image Convolution Visualization](http://setosa.io/ev/image-kernels/).
+2. [Pretrained neural networks in Keras](https://keras.io/applications/).
+3. [Pretrained neural networks in TensorFlow](https://github.com/tensorflow/models).
+
+## Datasets
+
+1. [MNIST](http://yann.lecun.com/exdb/mnist/).
+2. [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist).
+3. [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html).
+4. [ImageNet Dataset]().
