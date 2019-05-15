@@ -33,6 +33,7 @@
 ## Useful liks
 
 1. [Image Convolution Visualization](http://setosa.io/ev/image-kernels/).
+2. [A visual and intuitive understanding of deep learning (video)](https://youtu.be/Oqm9vsf_hvU?t=263).
 2. [Pretrained neural networks in Keras](https://keras.io/applications/).
 3. [Pretrained neural networks in TensorFlow](https://github.com/tensorflow/models).
 
