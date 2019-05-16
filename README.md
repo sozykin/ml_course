@@ -46,3 +46,4 @@
 2. [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist).
 3. [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html).
 4. [ImageNet Dataset](http://www.image-net.org/).
+5. [Cats and Dogs](https://filebin.net/2yrsmbdx0ezr6lps).
