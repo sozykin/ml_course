@@ -16,6 +16,7 @@
 12. [Transfer Learning for Cats and Dogs Classification](https://colab.research.google.com/drive/1OOhHUjQ7uRAg08FfHwmRQug4Nkft9KL5).
 13. [Cats and Dogs Classification using the InceptionV3 Network](https://colab.research.google.com/drive/1jEmlVtUHIWthGbVKaSfniZdS5D4IKgTt).
 14. [Cats and Dogs Classification using Data Augmentation](https://colab.research.google.com/drive/1bJm3e36IX5BEGdPJECCOJTC-E5oWPDIp).
+15. [Object Detection in Images](https://colab.research.google.com/drive/1P0vydnr-n_xvKs272FnXlDpgJWCjNCh-).
 
 
 ## Recommended Prerequisite Courses
@@ -36,6 +37,8 @@
 2. [A visual and intuitive understanding of deep learning (video)](https://youtu.be/Oqm9vsf_hvU?t=263).
 2. [Pretrained neural networks in Keras](https://keras.io/applications/).
 3. [Pretrained neural networks in TensorFlow](https://github.com/tensorflow/models).
+4. [How to train your own Object Detector with TensorFlow’s Object Detector API](https://towardsdatascience.com/how-to-train-your-own-object-detector-with-tensorflows-object-detector-api-bec72ecfe1d9).
+5. [Tensorflow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection).
 
 ## Datasets
 
