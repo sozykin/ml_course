@@ -17,6 +17,7 @@
 13. [Cats and Dogs Classification using the InceptionV3 Network](https://colab.research.google.com/drive/1jEmlVtUHIWthGbVKaSfniZdS5D4IKgTt).
 14. [Cats and Dogs Classification using Data Augmentation](https://colab.research.google.com/drive/1bJm3e36IX5BEGdPJECCOJTC-E5oWPDIp).
 15. [Object Detection in Images](https://colab.research.google.com/drive/1P0vydnr-n_xvKs272FnXlDpgJWCjNCh-).
+16. [Image Segmentation](https://colab.research.google.com/drive/1htUb3hGlyazeEqJJMf8m6nZaaV-mOKye).
 
 
 ## Recommended Prerequisite Courses
