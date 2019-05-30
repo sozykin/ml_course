@@ -29,8 +29,8 @@
 ## Recommended books
 
 1. [Pro Git](https://git-scm.com/book/en/v2)
-2. [Aurélien Géron. Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291). Github repos with [code exmples from the book](https://github.com/ageron/handson-ml) and with [examples from upcoming second edition](https://github.com/ageron/handson-ml2).
-3. [François Chollet. Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python). Github repos with [code exmples from the book](https://github.com/fchollet/deep-learning-with-python-notebooks).
+2. [Aurélien Géron. Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291). Github repos with [code examples from the book](https://github.com/ageron/handson-ml) and with [examples from upcoming second edition](https://github.com/ageron/handson-ml2).
+3. [François Chollet. Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python). Github repos with [code examples from the book](https://github.com/fchollet/deep-learning-with-python-notebooks).
 
 ## Useful links
 
@@ -40,6 +40,8 @@
 3. [Pretrained neural networks in TensorFlow](https://github.com/tensorflow/models).
 4. [How to train your own Object Detector with TensorFlow’s Object Detector API](https://towardsdatascience.com/how-to-train-your-own-object-detector-with-tensorflows-object-detector-api-bec72ecfe1d9).
 5. [Tensorflow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection).
+6. [Understanding Semantic Segmentation with UNET](https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47).
+7. [Up-sampling with Transposed Convolution](https://towardsdatascience.com/up-sampling-with-transposed-convolution-9ae4f2df52d0).
 
 ## Datasets
 
@@ -48,3 +50,4 @@
 3. [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html).
 4. [ImageNet Dataset](http://www.image-net.org/).
 5. [Cats and Dogs](https://filebin.net/2yrsmbdx0ezr6lps).
+6. [Carvana Image Masking Challenge](https://www.kaggle.com/c/carvana-image-masking-challenge).
