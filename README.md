@@ -21,7 +21,7 @@
 
 ## Competitions
 
-1. [CIFAR-10 Image Classification](https://www.kaggle.com/t/06bd21e03c694e32a914530285d66bf8).
+1. [CIFAR-10 Image Classification](https://www.kaggle.com/t/06bd21e03c694e32a914530285d66bf8) ([Baseline notebook](https://colab.research.google.com/drive/1nDDqvqc1h2jge5lpkeDZuJzemJMad6lz)).
 
 ## Recommended Prerequisite Courses
 
