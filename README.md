@@ -19,6 +19,9 @@
 15. [Object Detection in Images](https://colab.research.google.com/drive/1P0vydnr-n_xvKs272FnXlDpgJWCjNCh-).
 16. [Image Segmentation](https://colab.research.google.com/drive/1htUb3hGlyazeEqJJMf8m6nZaaV-mOKye).
 
+## Competitions
+
+1. [CIFAR-10 Image Classification](https://www.kaggle.com/t/06bd21e03c694e32a914530285d66bf8).
 
 ## Recommended Prerequisite Courses
 
