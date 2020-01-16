@@ -1,0 +1,20 @@
+Exam Questions
+
+1.	Digital image representation formats: RGB, GrayScale, etc.
+2.	Artificial neuron model.
+3.	Activation functions in artificial neuron model.
+4.	Artificial neural networks. Deep learning.
+5.	Supervised, unsupervised and reinforcement learning.
+6.	Training of artificial neural networks.
+7.	Dense (fully connected) artificial neural networks.
+8.	Python library for Deep Learning: TensorFlow.
+9.	Image classification using dense (fully connected) neural networks.
+10.	Overfitting in neural networks. Training, validation and test datasets.
+11.	Fashion MNIST recognition using dense (fully connected) neural networks.
+12.	Image convolution operation.
+13.	Convolutional neural networks. Convolutional and pooling layers.
+14.	Object recognition on the images using convolutional neural networks.
+15.	CIFAR-10 dataset image classification.
+16.	Pre-trained neural networks for image analysis. The ImageNet dataset.
+17.	Architecture of VGG16 Network.
+18.	Object recognition on the images using pretrained neural networks.
